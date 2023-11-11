@@ -1,0 +1,6 @@
+{
+  "appTitle": "one_sentence",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
